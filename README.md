@@ -7,3 +7,8 @@ JavaScript inspired by https://github.com/xem/miniCodeEditor
 Demo: https://tomhodgins.github.io/liveeditor/index.html
 
 > If you are looking for a more advanced live HTML editor, please check out: https://github.com/tomhodgins/tinkerpad
+
+### Resources:
+
+- Drag the window.
+- Icon that clean code when you click ;D
