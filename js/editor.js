@@ -48,6 +48,7 @@ $(document).ready(function(){
     document.getElementById("css").value = "";
     document.getElementById("js").value = "";
     sessionStorage.clear();
+     console.clear();
   }
 
 });
